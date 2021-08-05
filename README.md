@@ -1,2 +1,3 @@
-# har-to-locust
-Powershell script to convert browser's HAR file into Locust load test script file.
+# Har-to-Locust
+
+Powershell script to convert browser's [HAR](https://en.wikipedia.org/wiki/HAR_(file_format)) file into [Locust](https://locust.io/) load test script file.
